@@ -1,0 +1,576 @@
+1662580080174	geckodriver	INFO	Listening on 127.0.0.1:63884
+1662580083178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofile6j7Emm"
+1662580083505	Marionette	INFO	Marionette enabled
+1662580083509	Marionette	INFO	Listening on port 63898
+WebDriver BiDi listening on ws://localhost:63885
+Read port: 63898
+1662580083668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofile6j7Emm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63885/devtools/browser/1d7b0243-c183-47dc-a2a2-075ecd49b54b
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript error: https://www.theverge.com/ line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/ line 7 > injectedScript, line 1: ReferenceError: osdlfm is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 2333 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1662580294015	geckodriver	INFO	Listening on 127.0.0.1:52692
+1662580297236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofileeSotr8"
+1662580298323	Marionette	INFO	Marionette enabled
+1662580298334	Marionette	INFO	Listening on port 52727
+WebDriver BiDi listening on ws://localhost:52693
+Read port: 52727
+1662580298779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofileeSotr8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52693/devtools/browser/b6a0dd7d-beb0-4212-8bed-4d51037f6fb5
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/ line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll()[0] is undefined
+JavaScript error: https://www.theverge.com/ line 7 > injectedScript, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 7240 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 4653 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 5611 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 2219 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 7149 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 4712 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 1255 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 2224 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 7213 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Unable to find target with innerWindowId:4294967486"
+console.error: "Unable to find target with innerWindowId:4294967486"
+console.error: "Unable to find target with innerWindowId:4294967486"
+console.error: "Unable to find target with innerWindowId:4294967486"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+console.error: "Unable to find target with innerWindowId:4294967488"
+console.error: "Unable to find target with innerWindowId:4294967442"
+console.error: "Unable to find target with innerWindowId:4294967488"
+console.error: "Unable to find target with innerWindowId:4294967442"
+console.error: "Unable to find target with innerWindowId:4294967488"
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript error: https://www.theverge.com/archives line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 1647 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/2 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 7420 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/3 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 2232 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/4 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 573 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/1 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 1567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/2 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 312 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/1 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 7483 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/15 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+console.error: "Unable to find target with innerWindowId:4294967697"
+console.error: "Unable to find target with innerWindowId:4294967697"
+console.error: "Unable to find target with innerWindowId:4294967697"
+console.error: "Unable to find target with innerWindowId:4294967697"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967767/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967767/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967770/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967770/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967767/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967770/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:345:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:345:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967746"
+console.error: "Unable to find target with innerWindowId:4294967746"
+console.error: "Unable to find target with innerWindowId:4294967746"
+console.error: "Unable to find target with innerWindowId:4294967746"
+console.error: "Unable to find target with innerWindowId:4294967746"
+JavaScript error: https://www.theverge.com/archives/2022/8 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: resource://devtools/server/actors/inspector/walker.js, line 200: TypeError: targetActor is null
+console.error: "Unable to find target with innerWindowId:4294967746"
+console.error: "Unable to find target with innerWindowId:4294967746"
+console.error: "Unable to find target with innerWindowId:4294967746"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 1118 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967771"
+JavaScript error: https://www.theverge.com/archives/15 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+console.error: "Unable to find target with innerWindowId:4294967771"
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967771"
+console.error: "Unable to find target with innerWindowId:4294967771"
+console.error: "Unable to find target with innerWindowId:4294967771"
+console.error: "Unable to find target with innerWindowId:4294967771"
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 6627 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3439: TypeError: data.frameData.id is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 1660 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967846"
+console.error: "Unable to find target with innerWindowId:4294967832"
+console.error: "Unable to find target with innerWindowId:4294967846"
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967805"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+JavaScript error: https://www.theverge.com/archives/1 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+console.error: "Unable to find target with innerWindowId:4294967805"
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+console.error: "Unable to find target with innerWindowId:4294967805"
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1018:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:558:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:667:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1018, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1018))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:710:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:338:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+console.error: "Unable to find target with innerWindowId:4294967805"
+console.error: "Unable to find target with innerWindowId:4294967805"
+console.error: "Unable to find target with innerWindowId:4294967805"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 6795 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1662580858946	geckodriver	INFO	Listening on 127.0.0.1:52355
+1662580861985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofileu6jB0Z"
+1662580862322	Marionette	INFO	Marionette enabled
+1662580862326	Marionette	INFO	Listening on port 52366
+WebDriver BiDi listening on ws://localhost:52356
+Read port: 52366
+1662580862470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofileu6jB0Z\\search.json.mozlz4", (void 0)))
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+DevTools listening on ws://localhost:52356/devtools/browser/024d202c-7418-451c-b1ba-1e8a25a7a585
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/1 line 459 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 5514 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/2 line 459 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 6567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662581476569	geckodriver	INFO	Listening on 127.0.0.1:49491
+1662581479603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofile7Thr8A"
+1662581479955	Marionette	INFO	Marionette enabled
+1662581479959	Marionette	INFO	Listening on port 49503
+WebDriver BiDi listening on ws://localhost:49492
+Read port: 49503
+1662581480188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofile7Thr8A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49492/devtools/browser/8d541e42-134b-41c9-b52b-6ab5adb17a95
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/1 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://phonograph2.voxmedia.com/pickup.js?v=1529075019264, line 21: TypeError: ga.getAll()[0] is undefined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1662581491305	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 5513 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662581616614	geckodriver	INFO	Listening on 127.0.0.1:55498
+1662581619665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofilek1LSOe"
+1662581620034	Marionette	INFO	Marionette enabled
+1662581620038	Marionette	INFO	Listening on port 55510
+WebDriver BiDi listening on ws://localhost:55499
+Read port: 55510
+1662581620195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofilek1LSOe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55499/devtools/browser/af8a5793-3595-4878-affe-8a57f6217fac
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/1 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1662581631517	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.theverge.com/archives/2 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/3 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.theverge.com/archives/4 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/5 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/6 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/7 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 6287 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/8 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 4609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/9 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://www.theverge.com/archives/10 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/11 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+1662581950248	geckodriver	INFO	Listening on 127.0.0.1:65282
+1662581953306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofileF8C1ve"
+1662581953625	Marionette	INFO	Marionette enabled
+1662581953629	Marionette	INFO	Listening on port 65295
+WebDriver BiDi listening on ws://localhost:65283
+Read port: 65295
+1662581953771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofileF8C1ve\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65283/devtools/browser/703c4c08-6704-4a5e-8ac3-08ace295c216
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662581969758	geckodriver	INFO	Listening on 127.0.0.1:65324
+1662581972798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofilex38fM9"
+1662581973127	Marionette	INFO	Marionette enabled
+1662581973131	Marionette	INFO	Listening on port 65336
+WebDriver BiDi listening on ws://localhost:65325
+Read port: 65336
+1662581973272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofilex38fM9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65325/devtools/browser/c874a1e0-0b71-40e4-b6d1-fec687c6ba4c
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/1 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://cdn.vox-cdn.com/packs/js/concert_ads-3ded7e4f7a901daf64b8.js, line 2: TypeError: window.Context is undefined
+1662581980808	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1662582089497	geckodriver	INFO	Listening on 127.0.0.1:57751
+1662582092564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofileB5kBj9"
+1662582092938	Marionette	INFO	Marionette enabled
+1662582092944	Marionette	INFO	Listening on port 57769
+WebDriver BiDi listening on ws://localhost:57752
+Read port: 57769
+1662582093100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofileB5kBj9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57752/devtools/browser/d97f56a9-b4ba-40f7-a21a-a12df234345b
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/1 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://cdn.vox-cdn.com/packs/js/concert_ads-3ded7e4f7a901daf64b8.js, line 2: TypeError: window.Context is undefined
+1662582102082	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1662582277360	geckodriver	INFO	Listening on 127.0.0.1:55713
+1662582280412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofilexCOlXs"
+1662582280735	Marionette	INFO	Marionette enabled
+1662582280740	Marionette	INFO	Listening on port 55725
+WebDriver BiDi listening on ws://localhost:55714
+Read port: 55725
+1662582280909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofilexCOlXs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55714/devtools/browser/15e1089f-9a0d-4ed4-9853-df975785ff36
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/1 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1662582290316	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 3997 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1662582433173	geckodriver	INFO	Listening on 127.0.0.1:55351
+1662582436223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofileQzv88O"
+1662582436541	Marionette	INFO	Marionette enabled
+1662582436546	Marionette	INFO	Listening on port 55362
+WebDriver BiDi listening on ws://localhost:55352
+Read port: 55362
+1662582436684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofileQzv88O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55352/devtools/browser/6d637329-d053-471e-8e9c-73b84b1d5773
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/1 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 900 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1662582469502	geckodriver	INFO	Listening on 127.0.0.1:55942
+1662582472546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofilehFi2OT"
+1662582472893	Marionette	INFO	Marionette enabled
+1662582472898	Marionette	INFO	Listening on port 55955
+WebDriver BiDi listening on ws://localhost:55943
+Read port: 55955
+1662582473064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manpr\\AppData\\Local\\Temp\\rust_mozprofilehFi2OT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55943/devtools/browser/bd9ec432-cd18-42b1-ab78-6b942510aa37
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://z.moatads.com/voxprebidheader841653991752/moatheader.js, line 300: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.theverge.com/archives/1 line 458 > injectedScript, line 1: ReferenceError: Sailthru is not defined
+JavaScript error: https://cdn.vox-cdn.com/packs/js/concert_ads-3ded7e4f7a901daf64b8.js, line 2: TypeError: window.Context is undefined
+1662582481408	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
